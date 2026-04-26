@@ -1,0 +1,1 @@
+apt upadte && kpg update
